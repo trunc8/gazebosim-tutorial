@@ -13,7 +13,9 @@
 			<include>
 				<uri>model://Velodyne_LiDAR</uri>
 			</include>
-			<plugin name="velodyne_control" filename="libvelodyne_plugin.so"/>
+			<plugin name="velodyne_control" filename="libvelodyne_plugin.so">
+				<velocity>10</velocity>
+			</plugin>
 		</model>
 
 	</world>

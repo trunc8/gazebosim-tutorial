@@ -9,3 +9,7 @@ list(APPEND CMAKE_CXX_FLAGS "${GAZEBO_CXX_FLAGS}")
 # Build our plugin
 add_library(velodyne_plugin SHARED velodyne_plugin.cc)
 target_link_libraries(velodyne_plugin ${GAZEBO_LIBRARIES})
+
+# Build the stand-alone test program
+add_executable(vel vel.cc)
+target_link_libraries(vel ${GAZEBO_LIBRARIES})
