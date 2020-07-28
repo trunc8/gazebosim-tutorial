@@ -1,5 +1,5 @@
 ## Gazebosim Tutorials
-Notes and files written by me while completing [tutorials](http://gazebosim.org/tutorials) on [Gazebosim](http://gazebosim.org/)
+Notes and files written by me while completing the [tutorials](http://gazebosim.org/tutorials) on the [Gazebosim website](http://gazebosim.org/)
 
 ### Beginner Level
 1. Blob-following robot
