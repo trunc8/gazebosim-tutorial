@@ -1,6 +1,18 @@
 ## Gazebosim Tutorials
 Notes and files written by me while completing the [tutorials](http://gazebosim.org/tutorials) on the [Gazebosim website](http://gazebosim.org/)
 
+
+| Description | Screenshot |
+| ------ | ------ |
+| Blob Following Robot | <img src="https://github.com/trunc8/gazebosim_tutorial/blob/assets/blob_following_robot.jpg" width="400">  |
+| Hollow Wheel in Inkscape | <img src="https://github.com/trunc8/gazebosim_tutorial/blob/assets/hollow_wheel_inkscape.png" width="400">  |
+| Hollow Wheel in Gazebo | <img src="https://github.com/trunc8/gazebosim_tutorial/blob/assets/hollow_wheel.jpg" width="400">  |
+| Robot House | <img src="https://github.com/trunc8/gazebosim_tutorial/blob/assets/robot_house.jpg" width="400">  |
+| Velodyne STEP File in Freecad | <img src="https://github.com/trunc8/gazebosim_tutorial/blob/assets/velodyne_step_freecad.png" width="400">  |
+| Velodyne Base in Blender | <img src="https://github.com/trunc8/gazebosim_tutorial/blob/assets/velodyne_collada_base.png" width="400">  |
+| Velodyne Top in Blender | <img src="https://github.com/trunc8/gazebosim_tutorial/blob/assets/velodyne_collada_top.png" width="400">  |
+| Velodyne LiDAR in Gazebo | <img src="https://github.com/trunc8/gazebosim_tutorial/blob/assets/velodyne_lidar.jpg" width="400">  |
+
 ### Beginner Level
 1. Blob-following robot
     - Built in Model Editor (Ctrl+M)
